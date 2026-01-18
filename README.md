@@ -15,6 +15,9 @@ User can also learn vocabulary in reverse order, i.e English-Finnish.
 - Admin view for maintenancing the word lists and categories
   - Add words, languages and categories to the game
   - Update or delete existing words
+ 
+- Visually intuitive design
+- Scales flexibly for web and mobile views
 
 The app is available on render.com:
 [https://fullstack-project-app.onrender.com/](https://my-fullstack-app-juqr.onrender.com/)
