@@ -19,62 +19,13 @@ User can also learn vocabulary in reverse order, i.e English-Finnish.
 - Visually intuitive design
 - Scales flexibly for web and mobile views
 
+## Try the app yourself!
+
 The app is available on render.com:
 [https://fullstack-project-app.onrender.com/](https://my-fullstack-app-juqr.onrender.com/)
 
 Link to the screencast of the project:
 [https://www.youtube.com/watch?v=khb6gw8mISs]
-
-## INSTALLATION GUIDE
-
-* Clone the github repository to your computer
-
-```
-
-git clone https://github.com/laurailonaa/learn-languages-fullstack-project
-
-```
-
-* Open the repository
-
-```
-
-cd learn-languages-fullstack-project
-
-```
-
-* Open two different terminals and navigate to the backend and frontend folders
-
-```
-
-cd backend
-
-```
-
-```
-
-cd frontend
-
-```
-
-* Start the backend using
-
-```
-
-node index.js
-
-```
-
-* Start the frontend using
-
-```
-
-npm run dev
-
-```
-
-The frontend is now accessible through localhost:5173. Click the link for opening the app in the browser.
-
 
 ## Screenshots
 
@@ -108,7 +59,7 @@ ChatGPT has been consulted few times with the React-part of the project, mainly 
 are clearly commented in the code. Backend-portion of the project is done on my own. I have asked AI to give me some tips from my own thoughts, about how to implement something or if there is a similar way to do it. When AI has given me an example, I have consulted it more to explain why some parts has to be made specific way and/or if my version of the
 code would work itself OR if there is another way to do it, based on my own code and ideas.
 
-I also made AI to explain state changes and other React basics for me due the lack of explanation and help on our own
+I also made AI to explain state changes and other React basics for me due the lack of explanation and help from our own
 React course, which was the reason the whole frontend-part of this project was very time-consuming and in some parts confusing to do.
 
 
